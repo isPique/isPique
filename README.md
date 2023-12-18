@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1>hey bro how u doin don't say the n-word to strangers</h1>
+    <h1>Am I supposed to care?</h1>
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=isPique&theme=dark)](https://git.io/streak-stats)
