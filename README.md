@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=isPique&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=isPique)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.vercel.app/api?username=isPique&show_icons=true&theme=dark)
 
