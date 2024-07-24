@@ -11,7 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=isPique&style=for-the-badge)
 
 ### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=isPique&theme=radical&limit=5&combine_all_yearly_contributions=true&hide_contributor_rank=false&order_by=stars)
+![](https://github-contributor-stats.vercel.app/api?username=isPique&theme=radical&limit=5&combine_all_yearly_contributions=true&hide_contributor_rank=false)
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=isPique&theme=radical&no-frame=false&no-bg=false&margin-w=4)
