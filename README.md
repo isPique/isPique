@@ -16,4 +16,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=isPique&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+# ☕️ Support:
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ispique)
+
 ![Snake animation](https://raw.githubusercontent.com/isPique/isPique/output/github-contribution-grid-snake-dark.svg)
