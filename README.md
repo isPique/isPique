@@ -21,7 +21,7 @@
 
 [![](https://dcbadge.limes.pink/api/shield/559385460124680222)](https://discord.com/users/559385460124680222)
 
-[![](https://discord-readme-badge.vercel.app/api?id=559385460124680222)](https://discord.com/users/559385460124680222)
+[![Discord Presence](https://lanyard.cnrad.dev/api/559385460124680222??showDisplayName=true)](https://discord.com/users/559385460124680222)
 
 ## ☕️ Support:
 
