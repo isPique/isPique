@@ -17,7 +17,7 @@
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=isPique&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## Contact:
+## 💬 Contact:
 
 ![](https://dcbadge.limes.pink/api/shield/559385460124680222)
 
