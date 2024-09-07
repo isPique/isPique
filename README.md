@@ -19,7 +19,7 @@
 
 ## 💬 Contact:
 
-[![](https://dcbadge.limes.pink/api/shield/559385460124680222?logoColor=white)](https://discord.com/users/559385460124680222)
+[![](https://dcbadge.limes.pink/api/shield/559385460124680222)](https://discord.com/users/559385460124680222)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/559385460124680222??showDisplayName=true)](https://discord.com/users/559385460124680222)
 
